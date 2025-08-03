@@ -49,4 +49,5 @@ This work is distributed under the "Creative Commons Attribution 4.0 Internation
 📚 Citation
 
 If you use this data or code, please cite the following:
+Ali Sam. (2025). alisam1992/Burn-Patients-Outcome-Prediction: Machine learning pipeline for multiclass burn patient prognosis using a rich hospital dataset (Shiraz Burn Registry) (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.16730573
 
