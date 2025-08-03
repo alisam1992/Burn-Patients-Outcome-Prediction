@@ -1,0 +1,25 @@
+{
+  "@context": {
+    "@vocab": "http://schema.org/"
+  },
+  "@type": "Dataset",
+  "name": "Burn Patient Outcome Dataset and Machine Learning Models",
+  "description": "A comprehensive dataset of 545 burn patient records from Shiraz Burn Hospital, including over 120 structured variables. The dataset has been used to predict four clinical outcomes using various machine learning models. It is anonymized and licensed under CC-BY 4.0.",
+  "url": "https://doi.org/10.5281/zenodo.XXXXXXX",
+  "identifier": "https://doi.org/10.5281/zenodo.XXXXXXX",
+  "creator": {
+    "@type": "Person",
+    "name": "Ali Sam",
+    "affiliation": "Shiraz University of Medical Sciences"
+  },
+  "version": "1.0",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "keywords": [
+    "burn patients",
+    "clinical outcomes",
+    "machine learning",
+    "prognosis",
+    "hospital data"
+  ],
+  "datePublished": "2025-08-02"
+}
